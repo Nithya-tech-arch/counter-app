@@ -1,0 +1,42 @@
+button{
+    margin-right: 5px;
+
+}
+
+body{
+    background-image: url("https://images.pexels.com/photos/707582/pexels-photo-707582.jpeg?cs=srgb&dl=pexels-cats-coming-707582.jpg&fm=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.title{
+    margin-left: -500px;
+}
+.heading{
+    margin-left: -310px;
+}
+
+.value{
+    margin-top: 90px;
+    margin-left: 160px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn{
+    text-align: center;
+    margin-right: 30px;
+    border-radius: 5%;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    color: black;
+    font-size: 18px;
+    background-color:skyblue;
+        
+}
